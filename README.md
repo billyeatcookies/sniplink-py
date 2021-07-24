@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <a href="https://github.com/billyeatcookies/sniplink-py/actions">
+    <a href="https://github.com/billyeatcookies/sniplink-py/pulls">
         <img alt="Build status" src="https://img.shields.io/github/issues-pr/billyeatcookies/sniplink-py?style=for-the-badge">
     </a>
     <a href="https://github.com/billyeatcookies/sniplink-py/issues">
