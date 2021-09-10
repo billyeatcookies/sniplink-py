@@ -4,13 +4,15 @@ sys.path.insert(0,'..')
 import unittest
 import sniplink
 
+from helpers.expires import expires
+
 test_id = ""
 
 
 class TestLinkEndpoint(unittest.TestCase):
     client = sniplink.Client()
 
-    test_expires_in = 1631285947  # replace with a valid timestamp value
+    test_expires_in = expires()
     test_url = "https://github.com/billyeatcookies/sniplink.py"
 
     def test_create_link(self):
