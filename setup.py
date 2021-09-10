@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="sniplink",
-    version="1.0.0",
+    version="1.0.5",
     description="API wrapper for the SnipLink API provided by SnipLink.",
     long_description=README,
     long_description_content_type="text/markdown",
