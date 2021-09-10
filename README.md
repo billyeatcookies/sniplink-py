@@ -4,7 +4,7 @@
 
 <h1 align="center">
     <a href="https://github.com/billyeatcookies/sniplink-py/pulls">
-        <img alt="Build status" src="https://img.shields.io/github/issues-pr/billyeatcookies/sniplink-py?style=for-the-badge">
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/billyeatcookies/sniplink-py?style=for-the-badge">
     </a>
     <a href="https://github.com/billyeatcookies/sniplink-py/issues">
         <img alt="GitHub issues" src="https://img.shields.io/github/issues/billyeatcookies/sniplink-py?style=for-the-badge&logo=github">
